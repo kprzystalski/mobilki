@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+.DS_Store
+# Nie ignorujemy pliku wrapper JAR po jego pobraniu, aby można go było umieścić w repo.
